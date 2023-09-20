@@ -8,7 +8,7 @@ A aplicação consiste em uma Automação para preenchimento de um suposto siste
 
 Essa automação consiste em um sistema para reduzir trabalhos manuais resultando em uma automação de processos manuais.
 
-<img src="/assets/auto.gif">
+<img src="/assents/auto.gif">
 
 # Tecnologias utilizadas
 ## Back end
