@@ -28,4 +28,6 @@ Consiste em dois Apps, o primeiro app é onde possui o codigo de automação. O 
 
 Igor Parro Arcas 
 
-https://www.linkedin.com/in/igor-parro-arcas/
+Linkedin: https://www.linkedin.com/in/igor-parro-arcas/
+<BR/>
+portifólio: https://igorparrodev.wixsite.com/my-site-1
