@@ -1,4 +1,4 @@
-# Automação de um Sistama de Preenchimento Manual 
+# Automação de um Sistama de Preenchimento Manual (SAP)
 
 ## Sobre o projeto
 
